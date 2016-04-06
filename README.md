@@ -1,5 +1,7 @@
 # List app; new name TBD
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Since [Jesse Grosjean generously decided to release the original source code for TaskPaper-iOS](http://blog.hogbaysoftware.com/post/72672157477/taskpaper-for-ios-source-code), I'd like to take the code and see if I can modernize the app a bit and make something that works even better (fixing the sync issues mentioned in the original README) and feels at home on iOS 7.
 
 In the immediate term, my plan is to get acquainted with the codebase, especially the UI and data model/sync areas.
